@@ -56,7 +56,7 @@ Planned improvements: gathering more labeled images, longer training with learni
 
 ## Project Structure
 
-\```
+```
 ├── notebooks/
 │   └── mask_rcnn_training.ipynb   # training & evaluation notebook
 ├── outputs/
@@ -67,7 +67,7 @@ Planned improvements: gathering more labeled images, longer training with learni
 │   ├── eval_my_dataset_valid/     # final model evaluation on validation set
 │   └── eval_my_dataset_test/      # final model evaluation on test set
 └── README.md
-\```
+```
 
 ## Requirements
 
