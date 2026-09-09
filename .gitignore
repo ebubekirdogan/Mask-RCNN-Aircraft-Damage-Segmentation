@@ -1,0 +1,26 @@
+# Dataset
+dataset/
+*.coco.json
+
+# Model checkpoint'leri
+model_*.pth
+*.pkl
+
+# Tensorboard log dosyaları
+events.out.tfevents.*
+
+# last_checkpoint dosyası
+last_checkpoint
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
